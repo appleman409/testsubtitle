@@ -1,0 +1,11 @@
+0
+00:00:01,416 --> 00:00:04,040
+Cánh cửa buộc phải mở từ bên ngoài
+
+1
+00:00:04,583 --> 00:00:07,708
+Vì vậy, trước khi thi thể của Thống soái được tìm thấy,
+
+2
+00:00:08,166 --> 00:00:10,541
+nơi này vẫn là một căn phòng bị khóa.

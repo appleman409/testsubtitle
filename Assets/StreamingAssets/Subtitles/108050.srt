@@ -1,0 +1,15 @@
+0
+00:00:01,750 --> 00:00:03,707
+Có vẻ như anh ta 
+
+1
+00:00:03,707 --> 00:00:05,290
+giả làm nhân viên cửa hàng bán nến
+
+2
+00:00:05,415 --> 00:00:06,790
+Anh ta phải thường xuyên tiếp xúc với dầu mỡ,
+
+3
+00:00:07,250 --> 00:00:09,333
+và đó là lý do tại sao quần áo của anh ta dễ bắt lửa.

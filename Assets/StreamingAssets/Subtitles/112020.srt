@@ -1,0 +1,23 @@
+0
+00:00:01,750 --> 00:00:03,082
+Đây là báo về Đoàn kịch.
+
+1
+00:00:03,290 --> 00:00:04,665
+Kể từ khi Vệ Thừa tướng mời họ,
+
+2
+00:00:04,665 --> 00:00:05,875
+nhiều người đã đến và đi.
+
+3
+00:00:06,375 --> 00:00:10,125
+5 năm trước, Liên Thằng gia nhập với tư cách là đệ tử của Xuân phu nhân.
+
+4
+00:00:10,333 --> 00:00:11,333
+Sau 2 năm, anh ta rời đi.
+
+5
+00:00:11,416 --> 00:00:14,625
+Và những người khác chỉ tham gia sau khi anh ta đã rời đi.

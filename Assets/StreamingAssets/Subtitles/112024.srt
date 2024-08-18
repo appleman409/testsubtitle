@@ -1,0 +1,19 @@
+0
+00:00:00,958 --> 00:00:02,625
+Anh ấy đã rời quân 3 năm.
+
+1
+00:00:03,207 --> 00:00:05,500
+Vì vậy, anh ta đã từng là một người lính được rèn giũa bởi chiến tranh.
+
+2
+00:00:05,875 --> 00:00:07,540
+Nếu thành tích trên chiến trường là con đường theo đuổi của Ngô Hạo Vũ,
+
+3
+00:00:08,041 --> 00:00:10,416
+tại sao anh ta tham gia đoàn kịch và tập luyện Súc Cốt Công.
+
+4
+00:00:10,583 --> 00:00:11,625
+Để kế thừa công việc của cha mình?

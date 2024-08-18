@@ -1,0 +1,7 @@
+0
+00:00:01,457 --> 00:00:03,625
+Anh ta chắc cũng chạc tuổi tôi.
+
+1
+00:00:04,125 --> 00:00:06,040
+Nhưng sao lại thiếu khí chất đến vậy?

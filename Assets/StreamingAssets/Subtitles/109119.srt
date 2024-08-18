@@ -1,0 +1,15 @@
+0
+00:00:00,458 --> 00:00:02,125
+Một chiếc khăn tay...
+
+1
+00:00:03,000 --> 00:00:05,458
+Một nam nhi làm công việc của một nữ nhi.
+
+2
+00:00:05,750 --> 00:00:07,083
+Nếu anh ta được sinh ra ở Hạ Địa Kiều,
+
+3
+00:00:07,250 --> 00:00:08,875
+có lẽ chắc anh ta không chịu được quá một ngày.

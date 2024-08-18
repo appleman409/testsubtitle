@@ -1,0 +1,7 @@
+0
+00:00:01,582 --> 00:00:03,915
+Anh ta đã ghi chú rất nhiều.
+
+1
+00:00:05,458 --> 00:00:08,458
+Tại sao anh ta lại thực sự quan tâm đến chiến lược quân sự?

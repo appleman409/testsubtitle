@@ -1,0 +1,11 @@
+0
+00:00:01,582 --> 00:00:03,415
+Ngươi nói rằng cuốn sách này đã bị thất lạc.
+
+1
+00:00:03,582 --> 00:00:05,583
+Vậy tại sao chúng ta lại tìm thấy nó trên kệ sách nhà ngươi?
+
+2
+00:00:06,458 --> 00:00:08,791
+Phải làm gì? Tôi có nên nói cho cô ấy biết sự thật?

@@ -1,0 +1,3 @@
+0
+00:00:00,500 --> 00:00:02,040
+Ta không có thời gian mà ngồi đếm số với nhà ngươi.

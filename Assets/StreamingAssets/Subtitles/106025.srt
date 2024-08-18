@@ -1,0 +1,3 @@
+0
+00:00:00,708 --> 00:00:02,332
+Tay chân bình thường, không có dấu hiệu trúng độc.

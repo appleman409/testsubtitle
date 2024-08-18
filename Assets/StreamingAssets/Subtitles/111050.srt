@@ -1,0 +1,7 @@
+0
+00:00:00,458 --> 00:00:01,916
+Tỷ lệ vật liệu của sợi kim loại
+
+1
+00:00:02,040 --> 00:00:04,790
+và quá trình thực hiện, mọi thứ đều được ghi lại chi tiết.

@@ -1,0 +1,7 @@
+0
+00:00:01,125 --> 00:00:03,375
+An Kỳ chỉ muốn khoe khoang sao?
+
+1
+00:00:04,125 --> 00:00:05,875
+Nhưng vậy thì cũng có liên quan gì đâu?
